@@ -1,0 +1,11 @@
+path: ./dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: Arla-Standard-Milk
+  1: Bravo-Orange-Juice
+  2: God-Morgon-Apple-Juice
+  3: Tropicana-Apple-Juice
+  4: Valio-Vanilla-Yoghurt
